@@ -2,6 +2,8 @@
 
 A tiny, single-file todo app that runs in any modern browser with no build step, no install, and no account. Tasks are saved on your own device, and the interface stays out of the way while you work.
 
+[Play it in your browser](https://f.ondev.store/codex-app-dev/todo-list/blob/c99e06b8a65e8cb7fedf8853860ce7bb553151db/)
+
 ## Features
 
 - **Add tasks fast** — type and press Enter, or tap the plus button.
